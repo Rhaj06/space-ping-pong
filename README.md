@@ -3,7 +3,7 @@
   <p><i>An arcade-style, neon space-themed ping pong game built with Python & Pygame</i></p>
 
   <!-- Gameplay preview (ensure the filename below matches your gifs folder) -->
-  <img src="gifs/space-ping-pong.gif" alt="Space Ping Pong gameplay" width="700">
+  <img src="gifs/SpacePingPongDemo.gif" alt="Space Ping Pong gameplay" width="700">
 </div>
 
 <br>
