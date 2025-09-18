@@ -171,5 +171,5 @@ This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE)
 ---
 
 ## **Contact**
-Questions or feedback? Reach out via my  
+Questions or feedback or want to collaborate? Reach out via my  
 **LinkedIn:** [Brejesh Balakrishnan](https://www.linkedin.com/in/brejesh-balakrishnan-7855051b9/)
