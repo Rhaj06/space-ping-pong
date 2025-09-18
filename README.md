@@ -10,8 +10,8 @@
 
 <div align="center">
   <!-- Update the repo path in the href and badge if your repo name differs -->
-  <a href="https://github.com/<your-username>/<repo-name>">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/<your-username>/<repo-name>">
+  <a href="https://github.com/brej-29/space-ping-pong">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/brej-29/space-ping-pong">
   </a>
   <img alt="Python Language" src="https://img.shields.io/badge/Language-Python-blue">
   <img alt="Pygame" src="https://img.shields.io/badge/Library-Pygame-brightgreen">
@@ -83,7 +83,7 @@ Follow these steps to set up and run the project on your machine.
 ### **Installation**
 1. **Clone the repository (or download the source code):**  
    ``` sh
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/brej-29/space-ping-pong.git
    cd <repo-name>
      ```
 
